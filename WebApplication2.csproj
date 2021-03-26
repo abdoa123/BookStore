@@ -68,7 +68,16 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="model\Author.cs" />
+    <Compile Include="model\Book.cs" />
+    <Compile Include="model\REpositry\AuthorRepositry.cs" />
+    <Compile Include="model\REpositry\bookReposity.cs" />
+    <Compile Include="model\REpositry\IBookStoreRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="controller\" />
+    <Folder Include="view\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
