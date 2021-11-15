@@ -22,3 +22,36 @@ D:\Learning\asp.net\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Shar
 D:\Learning\asp.net\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.RazorTargetAssemblyInfo.cs
 D:\Learning\asp.net\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.Views.pdb
 D:\Learning\asp.net\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Author\Details.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.deps.json
+D:\Learning\New folder (5)\BookStore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.json
+D:\Learning\New folder (5)\BookStore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.dev.json
+D:\Learning\New folder (5)\BookStore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.dll
+D:\Learning\New folder (5)\BookStore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.pdb
+D:\Learning\New folder (5)\BookStore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.Views.dll
+D:\Learning\New folder (5)\BookStore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.Views.pdb
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csprojAssemblyReference.cache
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.CoreCompileInputs.cache
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.RazorAssemblyInfo.cache
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.RazorAssemblyInfo.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfoInputs.cache
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfo.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.TagHelpers.input.cache
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.TagHelpers.output.cache
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.RazorCoreGenerate.cache
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Author\Details.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Author\Index.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.RazorTargetAssemblyInfo.cache
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.RazorTargetAssemblyInfo.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.Views.pdb
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.dll
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.pdb
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.CopyComplete
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Author\Create.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Author\Edit.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Author\Delete.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Book\Index.g.cshtml.cs
+D:\Learning\New folder (5)\BookStore\Bookstore\obj\Debug\netcoreapp2.1\Razor\Views\Book\Details.g.cshtml.cs

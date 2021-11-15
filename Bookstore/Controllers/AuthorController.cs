@@ -40,11 +40,11 @@ namespace Bookstore.Controllers
         // POST: Author/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(Author newAuthor)
         {
             try
             {
-                // TODO: Add insert logic here
+                authorRepositry.Add(newAuthor);
 
                 return RedirectToAction(nameof(Index));
             }
@@ -57,17 +57,19 @@ namespace Bookstore.Controllers
         // GET: Author/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var author = authorRepositry.Find(id);
+            return View(author);
         }
 
         // POST: Author/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(int id, Author author)
         {
             try
             {
-                // TODO: Add update logic here
+
+               authorRepositry.Update(id, author);
 
                 return RedirectToAction(nameof(Index));
             }
@@ -80,7 +82,9 @@ namespace Bookstore.Controllers
         // GET: Author/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+
+            var author = authorRepositry.Find(id);
+            return View(author);
         }
 
         // POST: Author/Delete/5
@@ -90,7 +94,7 @@ namespace Bookstore.Controllers
         {
             try
             {
-                // TODO: Add delete logic here
+                authorRepositry.Delete(id);
 
                 return RedirectToAction(nameof(Index));
             }
